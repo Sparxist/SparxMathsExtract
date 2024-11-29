@@ -19,6 +19,6 @@ The Sparx-Extract tool should be in your extensions now.
 # Usage
 1. Go to your Sparx question.
 2. Open up the extension.
-3. Copy the text under the `Sparx question` heading. (If it doesn't show for some reason, check you have given it the right permissions, else open an [issue](https://github.com/gallium-gonzollium/Sparx-Extract/issues) up.)
+3. Copy the text under the `Sparx question` heading. (If it doesn't show for some reason, check you have given it the right permissions, else open an [issue](https://github.com/Sparxist/SparxMathsExtract/issues) up.)
 4. If you intend to put the question into an AI, copy the text under `AI initial prompt`. You only have to do this initially.
 5. Get some tips that can make Sparx less of a pain by reading the `Tips & Tricks on Sparx`.
